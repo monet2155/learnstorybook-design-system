@@ -86,5 +86,6 @@
   "bugs": {
     "url": "https://github.com/monet2155/learnstorybook-design-system/issues"
   },
-  "homepage": "https://github.com/monet2155/learnstorybook-design-system#readme"
+  "homepage": "https://github.com/monet2155/learnstorybook-design-system#readme",
+  "type": "commonjs"
 }
