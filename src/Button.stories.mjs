@@ -2,8 +2,8 @@ import React from 'react';
 import styled from 'styled-components';
 
 import { Button } from './Button';
-import { Icon } from './Icon';
-import { StoryLinkWrapper } from './StoryLinkWrapper';
+import { Icon } from './Icon.cjs';
+import { StoryLinkWrapper } from './StoryLinkWrapper.cjs';
 
 const CustomButton = styled.button`
   border: 1px solid green;

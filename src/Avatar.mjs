@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import styled, { css } from 'styled-components';
 import { color, typography } from './shared/styles';
 import { glow } from './shared/animation';
-import { Icon } from './Icon';
+import { Icon } from './Icon.cjs';
 
 export const sizes = {
   large: 40,

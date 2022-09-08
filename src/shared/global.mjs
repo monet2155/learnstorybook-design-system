@@ -1,5 +1,5 @@
 import { createGlobalStyle, css } from 'styled-components';
-import { color, typography } from './styles';
+import { color, typography } from './styles.cjs';
 
 // GUIDE: Global Font
 export const fontUrl = 'https://fonts.googleapis.com/css?family=Nunito+Sans:400,700,800,900';
