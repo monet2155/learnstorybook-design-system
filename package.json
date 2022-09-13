@@ -1,6 +1,6 @@
 {
   "name": "@monet2155/learnstorybook-design-system-template",
-  "version": "0.1.82",
+  "version": "0.1.83",
   "dependencies": {
     "@babel/cli": "^7.18.10",
     "@testing-library/jest-dom": "^5.11.4",
